@@ -1,0 +1,81 @@
+Province,District,id
+Bulawayo ,Northern Suburbs ,b3b2f2e2-1e82-4eb0-866b-050287d65491
+Bulawayo ,Emakhandeni ,34501d65-5434-489b-ac46-2e6002b9a9de
+Bulawayo ,Nkulumane ,a1dc8f67-0713-4846-a3fa-f9e67f787492
+Bulawayo ,Ingutsheni,dc4c7f17-fb42-43c9-8779-f5e57235bd5f
+Bulawayo ,Mpilo,ad3f1461-d0ec-459f-8386-29c3f9bc9639
+Bulawayo ,UBH,0db13a0d-a128-43eb-9c82-f3b05377abca
+Harare ,Parirenyatwa Group of Hospitals,8c8a2e9b-170f-42b3-bc9e-3201d15f9a89
+Harare ,Harare Central South Eastern ,a97b938f-a4d4-41f3-b24a-21c0c557d800
+Harare ,North Western ,0e7285d7-ac77-438f-a86e-21c0e114a31b
+Harare ,Infectious Diseases Hospital,fa16ebea-6333-4f0b-bc6f-d1013a9fa895
+Harare ,Northern ,ef2e8b9d-55cf-4f0c-800c-192a4d484739
+Harare ,West South West ,171ff0c0-0ebc-4250-85c1-eb60ca0200b4
+Harare ,Eastern ,25eae570-7973-4c15-a2d8-cc81b3caac48
+Harare ,Chitungwiza Central Hospital,08a52509-ca7e-4db3-9708-e80050982eb9
+Harare ,Chitungwiza Urban ,14d1b46c-8754-4e5f-b46e-47c762cf4af3
+Harare ,South Western ,33cb7ea9-1e7d-4cc1-b0c4-9b6b75feab7b
+Harare ,Harare Central Hospital,c8f44ddd-b9d9-4630-83b0-8291b269232d
+Harare ,Southern ,8115a1d6-6d74-4ac3-b731-502941e75c50
+Harare ,Western ,3c8ae101-8d4e-44b3-b555-6a7089f84f5d
+Manicaland ,Chipinge ,6849a90c-be66-42b9-b5a0-6fe4efd6a0d9
+Manicaland ,Mutare ,c2eff719-1fbf-4bef-a234-c1506cee979b
+Manicaland ,Chimanimani ,921ed1d5-585f-4a8d-84a4-34b40286cc78
+Manicaland ,Makoni ,f095a097-2a63-4ff2-a993-c20d5a9a38d7
+Manicaland ,Nyanga ,7bfd4f26-0621-4aaa-a725-cea5899dc3c3
+Manicaland ,Buhera ,66f4595e-424a-442b-ae76-248ddd432d9f
+Manicaland ,Mutasa ,8f74c755-6b2b-4ba1-a91c-6e762279f464
+Masvingo ,Chivi ,4952d023-37f5-4bcd-b5c4-4edc33fadbfe
+Manicaland ,Mutare City,636af773-b018-4480-90ed-215568833eb7
+Mashonaland Central ,Mazowe ,91754ad1-b8ca-4807-b6e6-25082bb77570
+Mashonaland Central ,Centenary ,33f81734-ddd1-40e0-bfda-479e665b7c52
+Mashonaland Central ,Mbire ,4215c756-5284-4002-9e7d-4bf11032a924
+Mashonaland Central ,Guruve ,fa113605-da13-4334-91bc-23769be1e367
+Mashonaland Central ,Mount Darwin ,48b59991-c90c-4ce1-b343-9b67d1a2481c
+Mashonaland Central ,Bindura ,82b1132f-0294-4692-82af-3ac28dab264e
+Mashonaland Central ,Rushinga ,9326098d-f445-4060-99bd-8d9811045e26
+Mashonaland Central ,Shamva ,4e45026b-54bf-4b12-a1b2-cd114c7423b7
+Mashonaland East ,Seke ,843508e5-859f-418f-971f-3253ab673be1
+Mashonaland East ,Goromonzi ,9440d773-64ec-4f3d-937c-652d30e898cb
+Mashonaland East ,Marondera ,4950ad7d-a583-4a80-83fc-cc5e49ca62c0
+Mashonaland East ,Uzumba Maramba Pfungwe ,7aeb423c-3932-4c3a-8828-49d3cbcea6e9
+Mashonaland East ,Chikomba ,bd61fde8-c16f-40f9-8fd4-3bbab4a67c53
+Mashonaland East ,Mutoko ,5b832b95-8759-47e4-a35f-99b4d35f7413
+Mashonaland East ,Hwedza ,ec6073fb-2a4e-43c1-a3f3-0f145884b352
+Mashonaland East ,Mudzi ,21c99f90-0a2d-4d40-b4a7-e312dc162950
+Mashonaland East ,Murewa ,29d3d604-e392-4186-8644-6ef857b9fb9c
+Midlands ,Kwekwe ,f1106272-d646-4614-8051-d7a396cbdfd9
+Midlands ,Shurugwi ,f9b0e38a-b67d-46ad-8e18-1e79385a2205
+Midlands ,Zvishavane ,59ee45c1-91b0-4aa8-8e3d-195eba0e2086
+Midlands ,Mberengwa ,4e806cea-0a81-4bd6-bd90-b2c053fc1007
+Midlands ,Gokwe North ,bafe6ede-fcc9-4e10-971a-56b1ec42668f
+Midlands ,Chirumhanzu ,e3eb24de-a96a-49b1-9333-5cda7681b124
+Midlands ,Gokwe South ,e8e324b2-864e-4634-b879-e1e1d1b7c879
+Midlands ,Gweru ,dd67b277-3033-402a-b296-fb2cab5a9f44
+Matabeleland North ,Bubi ,a40827de-6ed0-4f17-9490-98a3460ae6e2
+Matabeleland North ,Tsholotsho ,d5591614-0f07-431d-a762-9af9268a8357
+Matabeleland North ,Binga ,77491158-6b2f-46c3-8813-44fcd2c60307
+Matabeleland North ,Hwange ,da6b3d32-ae3d-4510-ac0c-65f62a2a3ed7
+Matabeleland North ,Nkayi ,69553eaa-4f46-44c9-a826-91f2e5b0f5a3
+Matabeleland North ,Lupane ,81e67059-88f4-4d13-9c18-e274c458a455
+Matabeleland North ,Umguza ,9031c37e-a823-495c-aac5-13e9c3535ec5
+Matabeleland South ,Insiza ,928b82e8-0e7f-4df4-aa24-547dde8ce6d7
+Matabeleland South ,Mangwe ,49e81b84-3171-49ee-a342-c69cf519d160
+Matabeleland South ,Matobo ,0e33c126-60c7-47f2-80a7-a1bad179f73b
+Matabeleland South ,Beitbridge ,fe0e408d-a186-45ac-a4ea-7479e856e38c
+Matabeleland South ,Bulilima ,6b2abf8d-72db-4042-9f78-3f469f10ac66
+Matabeleland South ,Gwanda ,c45d1636-3520-401d-b51c-2134f5e9c168
+Matabeleland South ,Umzingwane ,aa5663a3-ce80-46f2-b87d-f2ef649f0dd8
+Masvingo ,Masvingo ,4a4eb906-6c1c-49fb-8f90-9e5e85cd4a65
+Masvingo ,Bikita ,6284e10c-52ac-4ba6-9af2-49054deced5f
+Masvingo ,Zaka ,047a39c5-c44b-4bcf-bf20-138c7ea6d7fb
+Masvingo ,Mwenezi ,4ebd7b5d-174c-40cb-954c-561495864439
+Masvingo ,Chiredzi ,608b6220-158e-4d7b-bf96-849cdf948112
+Masvingo ,Gutu ,026254a4-97f6-4dfc-a588-84a90280be48
+Mashonaland West ,Makonde ,c10eeb32-2216-4b03-8834-8441ab1a5941
+Mashonaland West ,Zvimba ,730196f2-f0a7-4f17-b4e8-1d1dbc77da90
+Mashonaland West ,Chegutu ,8f10af31-a9ea-48c6-be06-caef3e61194d
+Mashonaland West ,Mhondoro ,a56295cd-9482-4f5e-9b26-81c327c1c2cb
+Mashonaland West ,Sanyati ,273b551f-e76f-459b-b3b5-61f7f5cf65a5
+Mashonaland West ,Kariba ,dd8dad38-2b0c-4597-bcd6-791f814eeb21
+Mashonaland West ,Hurungwe ,bbc47528-e855-46a2-8e56-504bfc38c5f2
